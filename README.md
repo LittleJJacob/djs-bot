@@ -10,3 +10,6 @@
 # ⚠ | Uyarı
 - Bu projenin alınıp başka bir yerde paylaşılması veya sahiplenmesi katiyen yasaktır, `MIT` lisansı ile korunmaktadır.
 - Kodlar şahsime aittir.
+
+# 📝 | Not
+- Eğer "funcitons/function Klasörü bulunamadı" diyorsa bana ulaşarak klasör'ü ve dosyasını alabilirsiniz!
