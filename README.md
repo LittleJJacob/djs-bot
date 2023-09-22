@@ -12,4 +12,4 @@
 - Kodlar şahsime aittir.
 
 # 📝 | Not
-- Eğer "funcitons/function Klasörü bulunamadı" diyorsa bana ulaşarak klasör'ü ve dosyasını alabilirsiniz!
+- Eğer "funcitons/function Klasörü bulunamadı" diye hata alıyorsanız bana ulaşarak klasör'ü ve dosyasını alabilirsiniz!
