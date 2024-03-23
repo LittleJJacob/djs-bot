@@ -1,12 +1,12 @@
 {
-  "name": "silex",
+  "name": "serius",
   "version": "9.9.9",
-  "description": "Silex Bot Altyapı",
+  "description": "Serius Bot Altyapı",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "araschain",
+  "author": "wixeria",
   "license": "MIT",
   "dependencies": {
     "@discordjs/rest": "^1.1.0",
